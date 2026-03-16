@@ -1,0 +1,8 @@
+.DS_Store
+.env
+node_modules/
+**/*.key
+**/*.pem
+**/secrets*
+package-lock.json
+.openclaw/
